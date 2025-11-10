@@ -249,10 +249,11 @@ For questions or suggestions, please contact us through:
 如有问题或建议，请通过以下方式联系：
 - Submit GitHub Issues
 - 提交 GitHub Issue
-- Send email to: your-email@example.com
-- 发送邮件至：your-email@example.com
+- Send email to: 2695145381@qq.com
+- 发送邮件至：2695145381@qq.com
 
 ---
 
 **Note**: Please ensure compliance with relevant copyright laws and only convert audio files that you have legal rights to use.
+
 **注意**: 请确保遵守相关版权法律，仅转换您拥有合法使用权的音频文件。
